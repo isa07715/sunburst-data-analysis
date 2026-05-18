@@ -1,0 +1,201 @@
+evento_id,fase_ciclo_vida,fecha,descripcion,area_dama
+1,Creación,2020-11-27 07:14:00,Comunicación C2,Data Security
+2,Uso,2020-03-21 02:13:00,Acceso normal,Data Operations
+3,Archivo,2021-08-31 13:14:00,Backup completado,Data Storage & Operations
+4,Archivo,2021-04-27 10:17:00,Backup completado,Data Storage & Operations
+5,Uso,2021-02-21 11:38:00,Acceso normal,Data Operations
+6,Archivo,2020-05-10 17:18:00,Backup completado,Data Storage & Operations
+7,Uso,2021-12-28 07:49:00,Acceso normal,Data Operations
+8,Mantenimiento,2020-11-30 14:40:00,Actualización de software,Data Architecture
+9,Uso,2020-11-19 22:59:00,Acceso normal,Data Operations
+10,Mantenimiento,2020-08-05 14:24:00,Actualización de software,Data Architecture
+11,Uso,2020-04-17 07:52:00,Tráfico inusual,Data Security
+12,Mantenimiento,2020-09-23 18:56:00,Actualización de software,Data Architecture
+13,Mantenimiento,2021-06-03 04:16:00,Backdoor detectado,Data Security
+14,Mantenimiento,2021-10-09 12:23:00,Actualización de software,Data Architecture
+15,Uso,2020-06-11 04:40:00,Scan de red,Data Security
+16,Uso,2021-06-13 16:16:00,Acceso normal,Data Operations
+17,Uso,2020-11-19 20:21:00,Scan de red,Data Security
+18,Uso,2020-11-15 16:48:00,Acceso normal,Data Operations
+19,Mantenimiento,2021-11-04 06:09:00,Actualización de software,Data Architecture
+20,Archivo,2020-03-10 03:59:00,Backup completado,Data Storage & Operations
+21,Uso,2020-05-10 02:46:00,Acceso normal,Data Operations
+22,Uso,2021-09-04 05:16:00,Scan de red,Data Security
+23,Archivo,2020-09-12 22:19:00,Backup completado,Data Storage & Operations
+24,Uso,2020-06-22 07:14:00,Login inusual,Data Security
+25,Mantenimiento,2021-10-14 07:00:00,Backdoor detectado,Data Security
+26,Uso,2021-01-23 02:32:00,Scan de red,Data Security
+27,Uso,2021-09-26 18:30:00,Scan de red,Data Security
+28,Uso,2021-12-25 13:22:00,Scan de red,Data Security
+29,Uso,2020-05-30 01:25:00,Acceso normal,Data Operations
+30,Uso,2021-05-24 04:27:00,Scan de red,Data Security
+31,Uso,2021-05-18 17:06:00,Acceso fuera de horario,Data Security
+32,Mantenimiento,2020-10-19 05:26:00,Actualización de software,Data Architecture
+33,Uso,2021-03-14 00:24:00,Scan de red,Data Security
+34,Mantenimiento,2021-09-11 21:45:00,Actualización de software,Data Architecture
+35,Eliminación,2021-10-05 23:34:00,Exfiltración de datos,Data Security
+36,Mantenimiento,2021-07-18 16:10:00,Backdoor detectado,Data Security
+37,Uso,2021-10-21 02:43:00,Scan de red,Data Security
+38,Uso,2020-10-29 18:38:00,Login inusual,Data Security
+39,Mantenimiento,2021-09-20 16:20:00,Actualización de software,Data Architecture
+40,Archivo,2020-07-03 21:41:00,Backup completado,Data Storage & Operations
+41,Archivo,2021-09-18 03:04:00,Backup completado,Data Storage & Operations
+42,Archivo,2020-10-27 11:18:00,Backup completado,Data Storage & Operations
+43,Mantenimiento,2020-12-22 21:06:00,Actualización de software,Data Architecture
+44,Mantenimiento,2021-09-08 04:17:00,Actualización de software,Data Architecture
+45,Uso,2020-11-16 16:31:00,Acceso normal,Data Operations
+46,Archivo,2020-04-05 00:21:00,Backup completado,Data Storage & Operations
+47,Mantenimiento,2021-05-02 17:00:00,Actualización de software,Data Architecture
+48,Archivo,2021-09-07 04:27:00,Backup completado,Data Storage & Operations
+49,Uso,2021-02-20 06:43:00,Acceso normal,Data Operations
+50,Mantenimiento,2021-11-16 23:09:00,Actualización de software,Data Architecture
+51,Archivo,2021-04-17 00:11:00,Backup completado,Data Storage & Operations
+52,Uso,2020-10-31 08:10:00,Acceso normal,Data Operations
+53,Archivo,2020-10-04 06:52:00,Backup completado,Data Storage & Operations
+54,Archivo,2020-10-05 00:42:00,Backup completado,Data Storage & Operations
+55,Archivo,2020-12-01 11:41:00,Backup completado,Data Storage & Operations
+56,Mantenimiento,2020-08-20 18:16:00,Backdoor detectado,Data Security
+57,Uso,2021-01-06 13:38:00,Acceso normal,Data Operations
+58,Mantenimiento,2020-11-06 01:45:00,Actualización de software,Data Architecture
+59,Uso,2021-01-23 19:20:00,Acceso normal,Data Operations
+60,Mantenimiento,2021-04-13 10:25:00,Actualización de software,Data Architecture
+61,Uso,2020-08-16 19:36:00,Acceso normal,Data Operations
+62,Uso,2021-10-05 19:41:00,Scan de red,Data Security
+63,Archivo,2021-06-18 23:10:00,Backup completado,Data Storage & Operations
+64,Mantenimiento,2020-10-17 21:19:00,Actualización de software,Data Architecture
+65,Uso,2021-06-20 19:54:00,Scan de red,Data Security
+66,Uso,2020-09-06 22:44:00,Scan de red,Data Security
+67,Mantenimiento,2020-02-25 03:49:00,Actualización de software,Data Architecture
+68,Archivo,2020-06-23 14:08:00,Backup completado,Data Storage & Operations
+69,Uso,2021-07-20 13:53:00,Scan de red,Data Security
+70,Archivo,2021-05-25 08:48:00,Backup completado,Data Storage & Operations
+71,Archivo,2021-05-15 02:45:00,Backup completado,Data Storage & Operations
+72,Mantenimiento,2020-05-12 04:09:00,Actualización de software,Data Architecture
+73,Mantenimiento,2021-01-23 17:29:00,Actualización de software,Data Architecture
+74,Uso,2021-10-10 22:01:00,Scan de red,Data Security
+75,Uso,2020-12-21 12:54:00,Scan de red,Data Security
+76,Uso,2021-05-11 15:01:00,Scan de red,Data Security
+77,Uso,2021-11-18 17:01:00,Acceso normal,Data Operations
+78,Archivo,2021-06-06 05:03:00,Backup completado,Data Storage & Operations
+79,Uso,2021-03-14 08:48:00,Scan de red,Data Security
+80,Uso,2020-03-10 23:34:00,Tráfico inusual,Data Security
+81,Creación,2021-12-18 01:48:00,Comunicación C2,Data Security
+82,Uso,2020-07-25 07:08:00,Acceso normal,Data Operations
+83,Uso,2021-03-03 05:38:00,Acceso normal,Data Operations
+84,Uso,2021-10-04 00:59:00,Scan de red,Data Security
+85,Mantenimiento,2020-05-07 18:44:00,Actualización de software,Data Architecture
+86,Uso,2021-10-26 03:50:00,Acceso normal,Data Operations
+87,Uso,2021-03-05 02:32:00,Acceso normal,Data Operations
+88,Uso,2021-05-08 11:40:00,Scan de red,Data Security
+89,Uso,2021-08-07 20:17:00,Scan de red,Data Security
+90,Uso,2021-10-18 08:20:00,Acceso normal,Data Operations
+91,Archivo,2021-06-09 18:39:00,Backup completado,Data Storage & Operations
+92,Archivo,2020-08-24 15:13:00,Backup completado,Data Storage & Operations
+93,Mantenimiento,2020-11-28 17:00:00,Actualización de software,Data Architecture
+94,Uso,2021-07-04 17:48:00,Scan de red,Data Security
+95,Mantenimiento,2020-05-25 09:14:00,Actualización de software,Data Architecture
+96,Archivo,2021-06-18 17:33:00,Backup completado,Data Storage & Operations
+97,Mantenimiento,2020-12-29 08:14:00,Actualización de software,Data Architecture
+98,Archivo,2020-08-27 06:13:00,Backup completado,Data Storage & Operations
+99,Uso,2020-12-19 07:23:00,Acceso normal,Data Operations
+100,Uso,2021-09-08 09:44:00,Scan de red,Data Security
+101,Mantenimiento,2020-12-07 15:30:00,Actualización de software,Data Architecture
+102,Uso,2020-06-15 02:25:00,Acceso normal,Data Operations
+103,Eliminación,2020-12-27 02:15:00,Exfiltración de datos,Data Security
+104,Uso,2021-05-26 14:19:00,Scan de red,Data Security
+105,Mantenimiento,2021-11-05 23:06:00,Actualización de software,Data Architecture
+106,Mantenimiento,2020-07-29 07:11:00,Actualización de software,Data Architecture
+107,Eliminación,2021-10-20 15:18:00,Exfiltración de datos,Data Security
+108,Mantenimiento,2020-05-02 21:14:00,Actualización de software,Data Architecture
+109,Mantenimiento,2021-12-14 04:58:00,Actualización de software,Data Architecture
+110,Archivo,2020-12-30 19:47:00,Backup completado,Data Storage & Operations
+111,Uso,2020-12-27 22:25:00,Scan de red,Data Security
+112,Uso,2021-05-07 23:20:00,Acceso normal,Data Operations
+113,Archivo,2021-10-01 18:01:00,Backup completado,Data Storage & Operations
+114,Archivo,2021-06-15 16:41:00,Backup completado,Data Storage & Operations
+115,Uso,2021-12-01 15:05:00,Scan de red,Data Security
+116,Archivo,2020-08-02 10:26:00,Backup completado,Data Storage & Operations
+117,Archivo,2020-03-28 14:05:00,Backup completado,Data Storage & Operations
+118,Uso,2021-07-30 00:42:00,Scan de red,Data Security
+119,Uso,2021-02-24 19:48:00,Scan de red,Data Security
+120,Uso,2020-07-03 09:28:00,Scan de red,Data Security
+121,Uso,2021-11-04 07:45:00,Acceso normal,Data Operations
+122,Uso,2021-06-06 03:41:00,Scan de red,Data Security
+123,Mantenimiento,2021-04-20 15:30:00,Actualización de software,Data Architecture
+124,Creación,2021-07-24 23:56:00,Comunicación C2,Data Security
+125,Archivo,2021-02-02 16:17:00,Backup completado,Data Storage & Operations
+126,Uso,2021-12-26 15:55:00,Scan de red,Data Security
+127,Mantenimiento,2021-08-29 12:29:00,Actualización de software,Data Architecture
+128,Uso,2021-04-15 01:20:00,Scan de red,Data Security
+129,Archivo,2020-07-24 15:02:00,Backup completado,Data Storage & Operations
+130,Mantenimiento,2020-06-01 16:58:00,Actualización de software,Data Architecture
+131,Archivo,2020-05-06 15:50:00,Backup completado,Data Storage & Operations
+132,Uso,2021-08-19 12:20:00,Scan de red,Data Security
+133,Mantenimiento,2021-11-27 21:58:00,Actualización de software,Data Architecture
+134,Creación,2021-11-29 22:55:00,Comunicación C2,Data Security
+135,Uso,2021-01-17 01:18:00,Scan de red,Data Security
+136,Mantenimiento,2021-09-21 21:50:00,Actualización de software,Data Architecture
+137,Mantenimiento,2021-11-15 21:15:00,Actualización de software,Data Architecture
+138,Eliminación,2021-06-04 08:42:00,Exfiltración de datos,Data Security
+139,Archivo,2020-05-05 14:22:00,Backup completado,Data Storage & Operations
+140,Uso,2020-12-25 06:24:00,Acceso normal,Data Operations
+141,Uso,2021-09-30 09:44:00,Scan de red,Data Security
+142,Archivo,2020-04-10 19:47:00,Backup completado,Data Storage & Operations
+143,Mantenimiento,2020-10-01 20:12:00,Actualización de software,Data Architecture
+144,Archivo,2020-03-31 09:50:00,Backup completado,Data Storage & Operations
+145,Mantenimiento,2021-01-19 23:26:00,Actualización de software,Data Architecture
+146,Uso,2020-08-06 08:58:00,Scan de red,Data Security
+147,Mantenimiento,2020-06-16 14:04:00,Actualización de software,Data Architecture
+148,Archivo,2021-02-28 02:50:00,Backup completado,Data Storage & Operations
+149,Archivo,2020-11-14 18:24:00,Backup completado,Data Storage & Operations
+150,Archivo,2020-03-16 19:56:00,Backup completado,Data Storage & Operations
+151,Uso,2021-06-09 22:19:00,Acceso normal,Data Operations
+152,Mantenimiento,2020-12-27 15:07:00,Backdoor detectado,Data Security
+153,Mantenimiento,2021-08-26 13:37:00,Actualización de software,Data Architecture
+154,Uso,2021-11-11 13:17:00,Tráfico inusual,Data Security
+155,Archivo,2020-10-18 11:06:00,Backup completado,Data Storage & Operations
+156,Uso,2020-09-01 03:54:00,Acceso normal,Data Operations
+157,Mantenimiento,2020-03-12 01:50:00,Actualización de software,Data Architecture
+158,Mantenimiento,2021-09-09 06:37:00,Actualización de software,Data Architecture
+159,Mantenimiento,2020-02-22 08:54:00,Actualización de software,Data Architecture
+160,Uso,2021-12-27 00:08:00,Login inusual,Data Security
+161,Eliminación,2020-08-16 08:03:00,Exfiltración de datos,Data Security
+162,Uso,2021-05-24 11:32:00,Scan de red,Data Security
+163,Uso,2021-12-25 16:19:00,Acceso normal,Data Operations
+164,Uso,2021-05-01 21:06:00,Scan de red,Data Security
+165,Archivo,2021-11-03 04:04:00,Backup completado,Data Storage & Operations
+166,Uso,2020-12-17 14:32:00,Acceso normal,Data Operations
+167,Uso,2021-09-06 23:55:00,Scan de red,Data Security
+168,Eliminación,2021-04-03 13:46:00,Exfiltración de datos,Data Security
+169,Uso,2020-07-25 21:59:00,Acceso normal,Data Operations
+170,Mantenimiento,2021-03-07 04:35:00,Backdoor detectado,Data Security
+171,Uso,2021-02-16 21:48:00,Acceso normal,Data Operations
+172,Uso,2020-06-05 18:32:00,Scan de red,Data Security
+173,Mantenimiento,2021-09-11 11:07:00,Actualización de software,Data Architecture
+174,Uso,2021-11-17 19:43:00,Acceso normal,Data Operations
+175,Creación,2021-01-01 10:22:00,Comunicación C2,Data Security
+176,Mantenimiento,2021-11-29 00:05:00,Actualización de software,Data Architecture
+177,Uso,2020-07-30 11:19:00,Acceso normal,Data Operations
+178,Eliminación,2021-11-13 01:43:00,Exfiltración de datos,Data Security
+179,Uso,2021-04-19 08:13:00,Acceso normal,Data Operations
+180,Uso,2021-10-19 15:33:00,Acceso normal,Data Operations
+181,Mantenimiento,2020-04-16 00:13:00,Actualización de software,Data Architecture
+182,Uso,2021-01-20 03:00:00,Scan de red,Data Security
+183,Archivo,2020-10-12 16:35:00,Backup completado,Data Storage & Operations
+184,Uso,2020-04-03 13:01:00,Acceso normal,Data Operations
+185,Uso,2021-04-09 22:40:00,Acceso normal,Data Operations
+186,Archivo,2020-08-13 19:29:00,Backup completado,Data Storage & Operations
+187,Uso,2020-10-26 13:37:00,Acceso normal,Data Operations
+188,Uso,2021-02-01 07:21:00,Acceso normal,Data Operations
+189,Mantenimiento,2021-02-11 11:46:00,Actualización de software,Data Architecture
+190,Uso,2020-09-09 05:38:00,Acceso normal,Data Operations
+191,Uso,2021-07-09 14:48:00,Scan de red,Data Security
+192,Uso,2021-01-08 04:28:00,Tráfico inusual,Data Security
+193,Uso,2020-11-27 18:03:00,Acceso normal,Data Operations
+194,Uso,2020-04-18 11:53:00,Acceso normal,Data Operations
+195,Mantenimiento,2020-04-02 14:58:00,Actualización de software,Data Architecture
+196,Eliminación,2020-07-23 01:28:00,Exfiltración de datos,Data Security
+197,Uso,2020-03-31 07:45:00,Scan de red,Data Security
+198,Uso,2021-03-22 13:49:00,Acceso normal,Data Operations
+199,Mantenimiento,2021-09-13 21:24:00,Actualización de software,Data Architecture
+200,Uso,2020-07-13 11:19:00,Scan de red,Data Security

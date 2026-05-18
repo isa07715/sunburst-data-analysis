@@ -1,0 +1,27 @@
+tabla,columna,metrica,valor_actual,umbral,estado
+clientes,cliente_id,Completitud,100.0,95.0,OK
+clientes,nombre_organizacion,Completitud,100.0,95.0,OK
+clientes,tipo_org,Completitud,100.0,95.0,OK
+clientes,pais,Completitud,100.0,95.0,OK
+clientes,sector,Completitud,100.0,95.0,OK
+clientes,criticidad,Completitud,100.0,95.0,OK
+versiones_software,version_id,Completitud,100.0,95.0,OK
+versiones_software,nombre_version,Completitud,100.0,95.0,OK
+versiones_software,fecha_release,Completitud,100.0,95.0,OK
+versiones_software,contiene_sunburst,Completitud,100.0,95.0,OK
+versiones_software,fecha_compilacion,Completitud,100.0,95.0,OK
+instalaciones,instalacion_id,Completitud,100.0,95.0,OK
+instalaciones,cliente_id,Completitud,100.0,95.0,OK
+instalaciones,version_id,Completitud,100.0,95.0,OK
+instalaciones,fecha_instalacion,Completitud,100.0,95.0,OK
+instalaciones,nivel_datos_sensibles,Completitud,100.0,95.0,OK
+eventos_seguridad,evento_id,Completitud,100.0,95.0,OK
+eventos_seguridad,instalacion_id,Completitud,100.0,95.0,OK
+eventos_seguridad,timestamp,Completitud,100.0,95.0,OK
+eventos_seguridad,tipo_evento,Completitud,100.0,95.0,OK
+eventos_seguridad,severidad,Completitud,100.0,95.0,OK
+eventos_seguridad,es_anomalo,Completitud,100.0,95.0,OK
+instalaciones,nivel_datos_sensibles,Exactitud (rango 1-5),100.0,100.0,OK
+instalaciones,fecha_instalacion,Exactitud (rango 2019-2022),100.0,98.0,OK
+instalaciones,cliente_id,Consistencia (integridad referencial),100.0,100.0,OK
+instalaciones,version_id,Consistencia (integridad referencial),100.0,100.0,OK

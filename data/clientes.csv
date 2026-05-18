@@ -1,0 +1,51 @@
+cliente_id,nombre_organizacion,tipo_org,pais,sector,criticidad
+1,"Rodriguez, Figueroa and Sanchez",Académica,Estados Unidos,Tecnología,Baja
+2,Doyle Ltd,Privada,México,Ciberseguridad,Alta
+3,"Mcclain, Miller and Henderson",Académica,Estados Unidos,Operaciones de red,Alta
+4,Davis and Sons,Académica,Perú,Tecnología,Alta
+5,"Guzman, Hoffman and Baldwin",Pública,México,Ciberseguridad,Baja
+6,"Gardner, Robinson and Lawrence",Académica,Estados Unidos,Operaciones de red,Alta
+7,Blake and Sons,Académica,Colombia,Finanzas,Alta
+8,"Henderson, Ramirez and Lewis",Privada,Colombia,Gobierno,Alta
+9,Garcia-James,Pública,Perú,Gobierno,Media
+10,Abbott-Munoz,Pública,México,Gobierno,Alta
+11,Blair PLC,Pública,Perú,Tecnología,Media
+12,Dudley Group,Privada,Colombia,Gobierno,Alta
+13,Arnold Ltd,Académica,Perú,Operaciones de red,Alta
+14,"Mcclure, Ward and Lee",Privada,Estados Unidos,Operaciones de red,Media
+15,Williams and Sons,Académica,Colombia,Gobierno,Baja
+16,Galloway-Wyatt,Pública,Estados Unidos,Tecnología,Baja
+17,James Group,Pública,Costa Rica,Tecnología,Alta
+18,"Flowers, Martin and Kelly",Pública,Perú,Gobierno,Media
+19,"Adams, Zuniga and Wong",Académica,Costa Rica,Ciberseguridad,Media
+20,"Reid, Ferguson and Sanchez",Privada,México,Gobierno,Baja
+21,Gray-Mayo,Académica,Estados Unidos,Operaciones de red,Baja
+22,"Watts, Robinson and Nguyen",Pública,Colombia,Ciberseguridad,Alta
+23,Perez Inc,Privada,Perú,Gobierno,Baja
+24,Morales-Jones,Académica,Colombia,Ciberseguridad,Baja
+25,"Walter, Edwards and Rios",Privada,Estados Unidos,Ciberseguridad,Alta
+26,Wilkerson-Day,Privada,Perú,Gobierno,Alta
+27,Baker and Sons,Pública,Colombia,Gobierno,Alta
+28,"Hoffman, Baker and Richards",Académica,Perú,Finanzas,Baja
+29,"Ross, Robinson and Bright",Privada,México,Gobierno,Alta
+30,"Snyder, Campos and Callahan",Pública,Colombia,Operaciones de red,Media
+31,Burton Ltd,Académica,Colombia,Finanzas,Baja
+32,Carlson-Cruz,Privada,Costa Rica,Ciberseguridad,Alta
+33,"Ferrell, Rice and Maddox",Académica,Perú,Tecnología,Alta
+34,Frazier Inc,Pública,México,Ciberseguridad,Baja
+35,"Dyer, Potter and Mack",Privada,Colombia,Tecnología,Media
+36,Rodriguez-Graham,Privada,Colombia,Finanzas,Baja
+37,Smith-Bowen,Privada,Colombia,Tecnología,Baja
+38,"Baker, Mason and White",Académica,Estados Unidos,Operaciones de red,Media
+39,Harrell LLC,Académica,Costa Rica,Tecnología,Media
+40,"Romero, Gonzalez and Brooks",Privada,México,Finanzas,Alta
+41,Ryan PLC,Académica,Costa Rica,Operaciones de red,Alta
+42,George Group,Académica,Estados Unidos,Gobierno,Baja
+43,Rodriguez LLC,Académica,Colombia,Ciberseguridad,Alta
+44,Allen-Allen,Privada,México,Operaciones de red,Baja
+45,"Arroyo, Miller and Tucker",Pública,Colombia,Gobierno,Media
+46,Spence PLC,Pública,Estados Unidos,Gobierno,Media
+47,Anderson Group,Pública,Estados Unidos,Ciberseguridad,Baja
+48,"Martin, Rose and Obrien",Pública,Estados Unidos,Finanzas,Alta
+49,Hickman Ltd,Académica,México,Ciberseguridad,Baja
+50,"Harris, Collins and Carney",Privada,Colombia,Ciberseguridad,Media

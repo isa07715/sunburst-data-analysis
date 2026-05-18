@@ -1,0 +1,201 @@
+evento_id,instalacion_id,timestamp,tipo_evento,severidad,es_anomalo
+1,8,2020-11-27 07:14:00,Comunicación C2,Alta,True
+2,9,2020-03-21 02:13:00,Acceso normal,Baja,False
+3,84,2021-08-31 13:14:00,Backup completado,Baja,False
+4,44,2021-04-27 10:17:00,Backup completado,Baja,False
+5,15,2021-02-21 11:38:00,Acceso normal,Informativa,False
+6,47,2020-05-10 17:18:00,Backup completado,Baja,False
+7,7,2021-12-28 07:49:00,Acceso normal,Baja,False
+8,6,2020-11-30 14:40:00,Actualización de software,Informativa,False
+9,85,2020-11-19 22:59:00,Acceso normal,Baja,False
+10,29,2020-08-05 14:24:00,Actualización de software,Informativa,False
+11,100,2020-04-17 07:52:00,Tráfico inusual,Media,True
+12,12,2020-09-23 18:56:00,Actualización de software,Informativa,False
+13,84,2021-06-03 04:16:00,Backdoor detectado,Crítica,True
+14,15,2021-10-09 12:23:00,Actualización de software,Informativa,False
+15,10,2020-06-11 04:40:00,Scan de red,Baja,False
+16,74,2021-06-13 16:16:00,Acceso normal,Baja,False
+17,35,2020-11-19 20:21:00,Scan de red,Baja,False
+18,92,2020-11-15 16:48:00,Acceso normal,Informativa,False
+19,30,2021-11-04 06:09:00,Actualización de software,Baja,False
+20,65,2020-03-10 03:59:00,Backup completado,Baja,False
+21,72,2020-05-10 02:46:00,Acceso normal,Baja,False
+22,64,2021-09-04 05:16:00,Scan de red,Baja,False
+23,97,2020-09-12 22:19:00,Backup completado,Informativa,False
+24,20,2020-06-22 07:14:00,Login inusual,Media,True
+25,28,2021-10-14 07:00:00,Backdoor detectado,Alta,True
+26,9,2021-01-23 02:32:00,Scan de red,Baja,False
+27,92,2021-09-26 18:30:00,Scan de red,Informativa,False
+28,15,2021-12-25 13:22:00,Scan de red,Baja,False
+29,70,2020-05-30 01:25:00,Acceso normal,Baja,False
+30,70,2021-05-24 04:27:00,Scan de red,Baja,False
+31,19,2021-05-18 17:06:00,Acceso fuera de horario,Media,True
+32,22,2020-10-19 05:26:00,Actualización de software,Informativa,False
+33,46,2021-03-14 00:24:00,Scan de red,Informativa,False
+34,92,2021-09-11 21:45:00,Actualización de software,Informativa,False
+35,10,2021-10-05 23:34:00,Exfiltración de datos,Alta,True
+36,64,2021-07-18 16:10:00,Backdoor detectado,Alta,True
+37,16,2021-10-21 02:43:00,Scan de red,Baja,False
+38,47,2020-10-29 18:38:00,Login inusual,Media,True
+39,73,2021-09-20 16:20:00,Actualización de software,Informativa,False
+40,50,2020-07-03 21:41:00,Backup completado,Baja,False
+41,79,2021-09-18 03:04:00,Backup completado,Baja,False
+42,16,2020-10-27 11:18:00,Backup completado,Baja,False
+43,43,2020-12-22 21:06:00,Actualización de software,Informativa,False
+44,15,2021-09-08 04:17:00,Actualización de software,Informativa,False
+45,80,2020-11-16 16:31:00,Acceso normal,Baja,False
+46,31,2020-04-05 00:21:00,Backup completado,Baja,False
+47,43,2021-05-02 17:00:00,Actualización de software,Baja,False
+48,58,2021-09-07 04:27:00,Backup completado,Informativa,False
+49,7,2021-02-20 06:43:00,Acceso normal,Informativa,False
+50,12,2021-11-16 23:09:00,Actualización de software,Baja,False
+51,48,2021-04-17 00:11:00,Backup completado,Informativa,False
+52,92,2020-10-31 08:10:00,Acceso normal,Informativa,False
+53,25,2020-10-04 06:52:00,Backup completado,Informativa,False
+54,56,2020-10-05 00:42:00,Backup completado,Informativa,False
+55,99,2020-12-01 11:41:00,Backup completado,Baja,False
+56,30,2020-08-20 18:16:00,Backdoor detectado,Crítica,True
+57,99,2021-01-06 13:38:00,Acceso normal,Informativa,False
+58,51,2020-11-06 01:45:00,Actualización de software,Informativa,False
+59,85,2021-01-23 19:20:00,Acceso normal,Informativa,False
+60,85,2021-04-13 10:25:00,Actualización de software,Baja,False
+61,47,2020-08-16 19:36:00,Acceso normal,Informativa,False
+62,61,2021-10-05 19:41:00,Scan de red,Informativa,False
+63,31,2021-06-18 23:10:00,Backup completado,Informativa,False
+64,97,2020-10-17 21:19:00,Actualización de software,Baja,False
+65,29,2021-06-20 19:54:00,Scan de red,Informativa,False
+66,50,2020-09-06 22:44:00,Scan de red,Baja,False
+67,90,2020-02-25 03:49:00,Actualización de software,Informativa,False
+68,29,2020-06-23 14:08:00,Backup completado,Informativa,False
+69,92,2021-07-20 13:53:00,Scan de red,Baja,False
+70,25,2021-05-25 08:48:00,Backup completado,Informativa,False
+71,31,2021-05-15 02:45:00,Backup completado,Informativa,False
+72,70,2020-05-12 04:09:00,Actualización de software,Baja,False
+73,58,2021-01-23 17:29:00,Actualización de software,Informativa,False
+74,98,2021-10-10 22:01:00,Scan de red,Informativa,False
+75,43,2020-12-21 12:54:00,Scan de red,Baja,False
+76,31,2021-05-11 15:01:00,Scan de red,Baja,False
+77,39,2021-11-18 17:01:00,Acceso normal,Baja,False
+78,18,2021-06-06 05:03:00,Backup completado,Baja,False
+79,38,2021-03-14 08:48:00,Scan de red,Informativa,False
+80,25,2020-03-10 23:34:00,Tráfico inusual,Media,True
+81,12,2021-12-18 01:48:00,Comunicación C2,Alta,True
+82,65,2020-07-25 07:08:00,Acceso normal,Baja,False
+83,30,2021-03-03 05:38:00,Acceso normal,Baja,False
+84,34,2021-10-04 00:59:00,Scan de red,Informativa,False
+85,52,2020-05-07 18:44:00,Actualización de software,Baja,False
+86,78,2021-10-26 03:50:00,Acceso normal,Informativa,False
+87,85,2021-03-05 02:32:00,Acceso normal,Informativa,False
+88,34,2021-05-08 11:40:00,Scan de red,Baja,False
+89,92,2021-08-07 20:17:00,Scan de red,Informativa,False
+90,92,2021-10-18 08:20:00,Acceso normal,Informativa,False
+91,59,2021-06-09 18:39:00,Backup completado,Baja,False
+92,35,2020-08-24 15:13:00,Backup completado,Informativa,False
+93,74,2020-11-28 17:00:00,Actualización de software,Baja,False
+94,58,2021-07-04 17:48:00,Scan de red,Informativa,False
+95,8,2020-05-25 09:14:00,Actualización de software,Informativa,False
+96,96,2021-06-18 17:33:00,Backup completado,Informativa,False
+97,67,2020-12-29 08:14:00,Actualización de software,Informativa,False
+98,70,2020-08-27 06:13:00,Backup completado,Informativa,False
+99,51,2020-12-19 07:23:00,Acceso normal,Baja,False
+100,10,2021-09-08 09:44:00,Scan de red,Baja,False
+101,50,2020-12-07 15:30:00,Actualización de software,Baja,False
+102,64,2020-06-15 02:25:00,Acceso normal,Baja,False
+103,72,2020-12-27 02:15:00,Exfiltración de datos,Alta,True
+104,6,2021-05-26 14:19:00,Scan de red,Informativa,False
+105,10,2021-11-05 23:06:00,Actualización de software,Baja,False
+106,14,2020-07-29 07:11:00,Actualización de software,Baja,False
+107,90,2021-10-20 15:18:00,Exfiltración de datos,Crítica,True
+108,23,2020-05-02 21:14:00,Actualización de software,Informativa,False
+109,28,2021-12-14 04:58:00,Actualización de software,Baja,False
+110,99,2020-12-30 19:47:00,Backup completado,Informativa,False
+111,90,2020-12-27 22:25:00,Scan de red,Informativa,False
+112,9,2021-05-07 23:20:00,Acceso normal,Baja,False
+113,87,2021-10-01 18:01:00,Backup completado,Baja,False
+114,48,2021-06-15 16:41:00,Backup completado,Baja,False
+115,17,2021-12-01 15:05:00,Scan de red,Informativa,False
+116,15,2020-08-02 10:26:00,Backup completado,Informativa,False
+117,43,2020-03-28 14:05:00,Backup completado,Baja,False
+118,10,2021-07-30 00:42:00,Scan de red,Informativa,False
+119,69,2021-02-24 19:48:00,Scan de red,Baja,False
+120,71,2020-07-03 09:28:00,Scan de red,Baja,False
+121,80,2021-11-04 07:45:00,Acceso normal,Informativa,False
+122,17,2021-06-06 03:41:00,Scan de red,Informativa,False
+123,31,2021-04-20 15:30:00,Actualización de software,Informativa,False
+124,74,2021-07-24 23:56:00,Comunicación C2,Crítica,True
+125,14,2021-02-02 16:17:00,Backup completado,Informativa,False
+126,58,2021-12-26 15:55:00,Scan de red,Informativa,False
+127,97,2021-08-29 12:29:00,Actualización de software,Baja,False
+128,28,2021-04-15 01:20:00,Scan de red,Informativa,False
+129,71,2020-07-24 15:02:00,Backup completado,Baja,False
+130,18,2020-06-01 16:58:00,Actualización de software,Informativa,False
+131,42,2020-05-06 15:50:00,Backup completado,Informativa,False
+132,38,2021-08-19 12:20:00,Scan de red,Baja,False
+133,29,2021-11-27 21:58:00,Actualización de software,Baja,False
+134,15,2021-11-29 22:55:00,Comunicación C2,Crítica,True
+135,7,2021-01-17 01:18:00,Scan de red,Baja,False
+136,58,2021-09-21 21:50:00,Actualización de software,Baja,False
+137,47,2021-11-15 21:15:00,Actualización de software,Baja,False
+138,30,2021-06-04 08:42:00,Exfiltración de datos,Crítica,True
+139,44,2020-05-05 14:22:00,Backup completado,Informativa,False
+140,23,2020-12-25 06:24:00,Acceso normal,Baja,False
+141,43,2021-09-30 09:44:00,Scan de red,Informativa,False
+142,87,2020-04-10 19:47:00,Backup completado,Baja,False
+143,43,2020-10-01 20:12:00,Actualización de software,Baja,False
+144,70,2020-03-31 09:50:00,Backup completado,Baja,False
+145,32,2021-01-19 23:26:00,Actualización de software,Informativa,False
+146,31,2020-08-06 08:58:00,Scan de red,Informativa,False
+147,88,2020-06-16 14:04:00,Actualización de software,Informativa,False
+148,45,2021-02-28 02:50:00,Backup completado,Baja,False
+149,87,2020-11-14 18:24:00,Backup completado,Baja,False
+150,25,2020-03-16 19:56:00,Backup completado,Baja,False
+151,80,2021-06-09 22:19:00,Acceso normal,Baja,False
+152,9,2020-12-27 15:07:00,Backdoor detectado,Alta,True
+153,45,2021-08-26 13:37:00,Actualización de software,Informativa,False
+154,28,2021-11-11 13:17:00,Tráfico inusual,Media,True
+155,62,2020-10-18 11:06:00,Backup completado,Informativa,False
+156,31,2020-09-01 03:54:00,Acceso normal,Baja,False
+157,74,2020-03-12 01:50:00,Actualización de software,Baja,False
+158,97,2021-09-09 06:37:00,Actualización de software,Informativa,False
+159,62,2020-02-22 08:54:00,Actualización de software,Informativa,False
+160,36,2021-12-27 00:08:00,Login inusual,Media,True
+161,8,2020-08-16 08:03:00,Exfiltración de datos,Alta,True
+162,25,2021-05-24 11:32:00,Scan de red,Baja,False
+163,7,2021-12-25 16:19:00,Acceso normal,Baja,False
+164,10,2021-05-01 21:06:00,Scan de red,Baja,False
+165,83,2021-11-03 04:04:00,Backup completado,Informativa,False
+166,33,2020-12-17 14:32:00,Acceso normal,Baja,False
+167,71,2021-09-06 23:55:00,Scan de red,Baja,False
+168,63,2021-04-03 13:46:00,Exfiltración de datos,Crítica,True
+169,96,2020-07-25 21:59:00,Acceso normal,Baja,False
+170,15,2021-03-07 04:35:00,Backdoor detectado,Crítica,True
+171,12,2021-02-16 21:48:00,Acceso normal,Informativa,False
+172,43,2020-06-05 18:32:00,Scan de red,Baja,False
+173,89,2021-09-11 11:07:00,Actualización de software,Informativa,False
+174,99,2021-11-17 19:43:00,Acceso normal,Informativa,False
+175,31,2021-01-01 10:22:00,Comunicación C2,Crítica,True
+176,93,2021-11-29 00:05:00,Actualización de software,Informativa,False
+177,38,2020-07-30 11:19:00,Acceso normal,Baja,False
+178,97,2021-11-13 01:43:00,Exfiltración de datos,Crítica,True
+179,62,2021-04-19 08:13:00,Acceso normal,Informativa,False
+180,32,2021-10-19 15:33:00,Acceso normal,Baja,False
+181,74,2020-04-16 00:13:00,Actualización de software,Baja,False
+182,77,2021-01-20 03:00:00,Scan de red,Baja,False
+183,70,2020-10-12 16:35:00,Backup completado,Baja,False
+184,93,2020-04-03 13:01:00,Acceso normal,Informativa,False
+185,72,2021-04-09 22:40:00,Acceso normal,Informativa,False
+186,35,2020-08-13 19:29:00,Backup completado,Baja,False
+187,15,2020-10-26 13:37:00,Acceso normal,Informativa,False
+188,93,2021-02-01 07:21:00,Acceso normal,Baja,False
+189,25,2021-02-11 11:46:00,Actualización de software,Baja,False
+190,30,2020-09-09 05:38:00,Acceso normal,Baja,False
+191,68,2021-07-09 14:48:00,Scan de red,Informativa,False
+192,68,2021-01-08 04:28:00,Tráfico inusual,Media,True
+193,99,2020-11-27 18:03:00,Acceso normal,Informativa,False
+194,9,2020-04-18 11:53:00,Acceso normal,Informativa,False
+195,71,2020-04-02 14:58:00,Actualización de software,Informativa,False
+196,68,2020-07-23 01:28:00,Exfiltración de datos,Alta,True
+197,24,2020-03-31 07:45:00,Scan de red,Baja,False
+198,32,2021-03-22 13:49:00,Acceso normal,Informativa,False
+199,15,2021-09-13 21:24:00,Actualización de software,Informativa,False
+200,85,2020-07-13 11:19:00,Scan de red,Baja,False

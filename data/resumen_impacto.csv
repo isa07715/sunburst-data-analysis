@@ -1,0 +1,9 @@
+version_id,nombre_version,contiene_sunburst,total_instalaciones,clientes_expuestos,clientes_comprometidos
+101,Orion 2019.4,True,50,12,4
+102,Orion 2019.4 HF1,True,36,7,3
+103,Orion 2019.4 HF2,True,19,4,0
+104,Orion 2019.4 HF5,False,12,8,0
+105,Orion 2020.2,True,31,9,1
+106,Orion 2020.2 HF1,True,33,12,0
+107,Orion 2020.2.1,False,12,8,0
+108,Orion 2021.1,False,7,5,0
