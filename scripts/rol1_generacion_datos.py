@@ -272,3 +272,5 @@ if __name__ == "__main__":
 
     generar_diccionario(clientes_df, versiones_df, instalaciones_df)
     print("Diccionario generado")
+
+
